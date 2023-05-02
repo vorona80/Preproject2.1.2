@@ -9,6 +9,6 @@ public class AppConfig {
     public HelloWorld getHelloWorld() {
         HelloWorld helloWorld = new HelloWorld();
         helloWorld.setMessage("Hello World!");
-        return helloWorld;
+        return helloWorld;//первое изменение
     }
 }
